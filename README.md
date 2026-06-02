@@ -93,7 +93,7 @@ Currently working as a Senior Full-Stack Developer & Mobile Engineer at Kisel Gr
 
 ### BayarAja
 
-**Tech Lead, Mobile Developer & Backend Architect**
+**Mobile Developer & Backend Architect**
 
 Multi-level PPOB platform with stock distribution flow:
 
@@ -109,19 +109,19 @@ Key Contributions:
 #### Screenshots
 
 <p align="center">
-  <img src="images/bayaraja_splash.jpeg" width="250">
-  <img src="images/bayaraja_login.jpeg" width="250">
-  <img src="images/bayaraja_register.jpeg" width="250">'
-  <img src="images/bayaraja_home.jpeg" width="250">
-  <img src="images/bayaraja_profile.jpeg" width="250">
-  <img src="images/bayaraja_progmo.jpeg" width="250">
+  <img src="images/bayaraja_splash.jpeg" width="150">
+  <img src="images/bayaraja_login.jpeg" width="150">
+  <img src="images/bayaraja_register.jpeg" width="150">'
+  <img src="images/bayaraja_home.jpeg" width="150">
+  <img src="images/bayaraja_profile.jpeg" width="150">
+  <img src="images/bayaraja_promo.jpeg" width="150">
 </p>
 
 ---
 
 ### Marissa HRMS & HRIS Attendance System
 
-**Full-Stack Lead**
+**Full-Stack Developer**
 
 Enterprise HR platform serving 500+ employees.
 
@@ -138,6 +138,15 @@ Responsibilities:
 * Development
 * Deployment
 * Production Support
+
+#### Screenshots
+
+<p align="center">
+  <img src="images/marissa_splash.jpeg" width="150">
+  <img src="images/marissa_login.jpeg" width="150">
+  <img src="images/marissa_home.jpeg" width="150">
+  <img src="images/marissa_info.jpeg" width="150">
+</p>
 
 ---
 

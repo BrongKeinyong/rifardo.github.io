@@ -150,21 +150,6 @@ Responsibilities:
 
 ---
 
-### PPNI Nurse Platform
-
-**Backend Engineer & Project Coordinator**
-
-National-scale platform supporting Indonesian nurses.
-
-Responsibilities:
-
-* Backend API Development
-* Vendor Coordination
-* Milestone Tracking
-* Stakeholder Communication
-
----
-
 ## Education
 
 **Bachelor of Informatics Engineering**
